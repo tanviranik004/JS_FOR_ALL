@@ -1,0 +1,6 @@
+console.log('Hello js')
+console.log('I love Bangladesh')
+console.log(75)
+console.log(9+9)
+console.log('9'+9)
+console.log('my favorite number is: 4')
