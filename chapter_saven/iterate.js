@@ -6,3 +6,8 @@ var obj={
 
 console.log('x' in obj)
 console.log('p' in obj)
+
+for(var i in obj){
+    console.log(i)
+    console.log(obj[i])
+}
